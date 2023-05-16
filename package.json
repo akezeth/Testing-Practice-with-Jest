@@ -1,0 +1,15 @@
+{
+  "name": "testing-practice-with-jest",
+  "version": "1.0.0",
+  "description": "[Testing-Practice-with-Jest] is a simple exercise used to practice practical tests for JavaScript functions using the Jest library. AAA patern is followed so that it will be easier for other developers to read and understand.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
